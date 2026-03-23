@@ -15,9 +15,9 @@ There is no free lunch. Every concept has challenges. Google CoLab is not an "al
 
 ## The Solution
 
-Challenge #1 can only be solved by either throwing money at it or living with it.
-Challenge #2 can easily be solved with a 2 TB subscription to Google Drive
-Challenge #3 can be worked around as follows:
+- Challenge #1 can only be solved by either throwing money at it or living with it.
+- Challenge #2 can easily be solved with a 2 TB subscription to Google Drive
+- Challenge #3 can be worked around as follows:
 
 In order to be able to connect to CoLab code from the outside world, people usually use Tunneling providers. Popular ones are
 
@@ -108,9 +108,9 @@ Things need to be done in the following order:
 10. use and enjoy comfyUI over the vps
 11. (optional) revert firewall changes and ssh keys on the vps
 
-Step 1 is done either with a browser or with VS Code using the CoLab Extension.
-Steps 2,3,5,6 can be done in the ```ComfyUI.ipynb``` Jupyter Notebook
-Step 4 can either be done using code samples in the ```tools``` subdir or using something like https://github.com/romandev-codex/ComfyUI-Downloader.git 
-Steps 7,8,9 can be done using the ```ssh-tunnel.ipynb``` Jupyter Notebook
-Steps 8,10,11 can/need to be done outside of this environment
+- Step 1 is done either with a browser or with VS Code using the CoLab Extension.
+- Steps 2,3,5,6 can be done in the ```ComfyUI.ipynb``` Jupyter Notebook
+- Step 4 can either be done using code samples in the ```tools``` subdir or using something like https://github.com/romandev-codex/ComfyUI-Downloader.git 
+- Steps 7,8,9 can be done using the ```ssh-tunnel.ipynb``` Jupyter Notebook
+- Steps 8,10,11 can/need to be done outside of this environment
 
